@@ -1,2 +1,2 @@
-# dc-404
+# 404
 Dev Challenge - 404
