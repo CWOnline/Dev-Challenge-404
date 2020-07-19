@@ -1,0 +1,19 @@
+.center-vertically {
+    display:flex;
+    min-height: 100vh;
+}
+@media only screen and (max-width: 600px) {
+    .center-vertically {
+        display:unset;
+        min-height: unset;
+    }
+}
+
+.scarecrow {
+    opacity:0.8;
+    transition:0.3s;
+}
+
+.scarecrow:hover {
+    opacity:1;
+}
